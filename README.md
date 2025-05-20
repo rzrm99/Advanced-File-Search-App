@@ -25,13 +25,6 @@ A powerful desktop GUI application to search for files with multiple filters —
 
 ---
 
-## 🖼️ Screenshot
-
-> *(Add your screenshot here)*  
-> ![Advanced File Search Screenshot](screenshot.png)
-
----
-
 ## 🛠 Requirements
 
 - Python 3.6+
